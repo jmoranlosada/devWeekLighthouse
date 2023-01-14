@@ -28,7 +28,7 @@
     "copy-webpack-plugin": "4.5.1",
     "file-loader": "1.1.11",
     "nodemon": "1.17.5",
-    "webpack-cli": "3.0.2"
+    "webpack-cli": "3.3.12"
   },
   "engines": {
     "node": "8.11.3"
